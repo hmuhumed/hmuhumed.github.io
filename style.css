@@ -1,5 +1,5 @@
 body{
-  background-color:grey;
+  background-color: sienna;
   font-family: "Times New Roman", Times, serif;
 font-size: 15px;
 letter-spacing: 1px;
@@ -21,4 +21,22 @@ text-transform: none;
 }
 .third{
   padding-left:8%
+}
+h1{
+  color:white;
+}
+h2{
+  color:white;
+}
+h3{
+  color:white
+}
+h4{
+  color:white
+}
+p{
+  color:white;
+}
+li{
+  color:white
 }
