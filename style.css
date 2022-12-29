@@ -1,42 +1,24 @@
 body{
-  background-color: sienna;
-  font-family: "Times New Roman", Times, serif;
-font-size: 15px;
-letter-spacing: 1px;
-word-spacing: 1px;
-color: #000000;
-font-weight: normal;
-text-decoration: none;
-font-style: normal;
-font-variant: normal;
-text-transform: none;
+  background-color: #F5F2E8;
+  color: black;
+  font-family: Times New Roman, Helvetica, sans-serif;
+  margin: 6% 6%;
+  
 }
-.first{
-  font-size:25px;
+
+.exp-header{
   text-align: center;
+  text-transform: uppercase;
+  color: black;
+  border-top: 2px solid #dddddd;
+  border-bottom: 2px solid #dddddd;
 }
-.second{
-  text-align:center;
-  margin-top:-3%
-}
-.third{
-  padding-left:8%
-}
+
 h1{
-  color:white;
+  text-align: center;
+  font-weight: bold;
 }
 h2{
-  color:white;
-}
-h3{
-  color:white
-}
-h4{
-  color:white
-}
-p{
-  color:white;
-}
-li{
-  color:white
+  text-align: center;
+  font-size: 15px; 
 }
