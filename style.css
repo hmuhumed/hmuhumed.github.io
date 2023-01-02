@@ -3,6 +3,9 @@ body{
   color: black;
   font-family: Times New Roman, Helvetica, sans-serif;
   margin: 6% 6%;
+  border: 2px solid black;
+  padding-left:15px;
+  padding-right:15px;
   
 }
 
